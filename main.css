@@ -105,3 +105,19 @@ section h2 {
 #economy .articles article a {
     background-color: darkorange;
 }
+
+#educação {
+    background-color: rgba(0, 233, 300, 0.2);
+}
+
+#educação .articles article a {
+    background-color: cornflowerblue;
+}
+
+#ciência {
+    background-color: rgba(300, 0, 123, 0.2);
+}
+
+#ciência .articles article a {
+    background-color: blueviolet;
+}
